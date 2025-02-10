@@ -1,7 +1,7 @@
 {
   "name": "Liquid ION",
-  "description": "",
+  "description": "Staked ION",
   "symbol": "LION",
   "decimals": 9,
-  "image": "https://example.com/token.png"
+  "image": "https://raw.githubusercontent.com/catchain/metadata/refs/heads/main/ion/staking/LION.png"
 }
